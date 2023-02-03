@@ -1,0 +1,8 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "batisteo.vscode-django",
+	"editor.formatOnType": true,
+	"[django-html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
